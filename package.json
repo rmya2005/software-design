@@ -1,0 +1,17 @@
+{
+  "name": "lab_02",
+  "version": "1.0.0",
+  "main": "dist/task_01/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/task_01/index.js",
+    "dev": "tsc && node dist/task_01/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
