@@ -1,0 +1,3 @@
+[INFO] This is an information message saved to file
+[ERROR] This is an error message saved to file
+[WARNING] This is a warning message saved to file
